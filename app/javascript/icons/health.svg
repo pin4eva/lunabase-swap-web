@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="25" height="25" viewBox="0 0 25 25">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_25" data-name="Rectangle 25" width="25" height="25" transform="translate(74 928)" fill="#e5e5e5"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_11" data-name="Mask Group 11" transform="translate(-74 -928)" clip-path="url(#clip-path)">
+    <g id="aromatherapy" transform="translate(74 928)">
+      <path id="Path_661" data-name="Path 661" d="M16.678,1.967s-5.72,4.94,0,10.661c5.72-5.72,0-10.661,0-10.661Z" fill="#f79961"/>
+      <path id="Path_662" data-name="Path 662" d="M18.805,12.426c5.86-1.2,5.411-7.337,5.411-7.337a8.509,8.509,0,0,0-3.692.7,7.494,7.494,0,0,1,.156,1.263,7.572,7.572,0,0,1-.614,3.248,9.691,9.691,0,0,1-1.261,2.126Z" fill="#f79961"/>
+      <path id="Path_663" data-name="Path 663" d="M1.945,8.347A5.318,5.318,0,0,1,3.682,9.7l2.412,2.925h6.727l-6.668-5.5A4.958,4.958,0,0,1,4.865,5.459a2.167,2.167,0,1,0-2.92,2.888Z" fill="#f79961"/>
+      <path id="Path_664" data-name="Path 664" d="M0,14.092c0,4.654,1.122,5.5,3.1,8.941H21.9c1.981-3.444,3.1-4.287,3.1-8.941Zm14.111,5.2h-.879v.879H11.768V19.3h-.879V17.83h.879v-.879h1.465v.879h.879Z" fill="#ee7329"/>
+    </g>
+  </g>
+</svg>

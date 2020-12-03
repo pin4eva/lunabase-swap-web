@@ -1,0 +1,38 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	margin: 0;
+}
+
+h3 {
+	font-size: 30px;
+	color: $text-dark;
+}
+
+h6 {
+	margin-bottom: 8px;
+	font-size: 16px;
+	color: $text-light;
+}
+
+button {
+	background-color: transparent;
+	&:focus {
+		outline: none;
+	}
+}
+
+ul {
+	list-style: none;
+	margin-left: 0;
+}
+
+input,
+select {
+	&:focus {
+		outline: 0;
+	}
+}

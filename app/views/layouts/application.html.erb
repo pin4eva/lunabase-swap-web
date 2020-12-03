@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>SwapWeb</title>
+    <%= csrf_meta_tags %>
+    <%= csp_meta_tag %>
+    <%= stylesheet_link_tag "application", media: "all", 'data-turbolinks-track': "reload" %>
+    <%= javascript_pack_tag "application", 'data-turbolinks-track': "reload" %>
+    <%= javascript_pack_tag "nav", 'data-turbolinks-track': "reload" %>
+    <!-- React Components -->
+    <%= javascript_pack_tag "show_product", 'data-turbolinks-track': "reload" %>
+    <%= javascript_pack_tag "home", 'data-turbolinks-track': "reload" %>
+    <%= javascript_pack_tag "account", 'data-turbolinks-track': "reload" %>
+    <%= javascript_pack_tag "search", 'data-turbolinks-track': "reload" %>
+    <!-- <% if controller_name == "products" && action_name == "show" %>
+    <% end %> -->
+    <!-- END -->
+  </head>
+  <body>
+    <% unless  controller_name == "users" && action_name == "register"  ||  controller_name == "users" && action_name == "account" %>
+      <%= render "fragments/nav" %>
+    <% end %>
+    <%= yield %>
+  </body>
+</html>

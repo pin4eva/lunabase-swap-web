@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_509" data-name="Rectangle 509" width="20" height="20" transform="translate(910 547)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.5" y1="0.414" x2="0.5" y2="0.443" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#8d8a8a"/>
+      <stop offset="1" stop-color="#c6c6c6"/>
+    </linearGradient>
+  </defs>
+  <g id="Mask_Group_65" data-name="Mask Group 65" transform="translate(-910 -547)" clip-path="url(#clip-path)">
+    <path id="fast-delivery_1_" data-name="fast-delivery (1)" d="M14.258.118c1.734.4,2.4,1.416,3.229,2.812H14.258ZM4.124,3.047a.514.514,0,0,1,.586.547.586.586,0,0,1-.584.586H.586a.586.586,0,0,0,0,1.172H5.859a.586.586,0,1,1,0,1.172H.586a.586.586,0,0,0,0,1.172H1.875V9.453a.586.586,0,0,0,.586.586H3.639a2.247,2.247,0,0,0,4.4,0H13.99a2.247,2.247,0,0,0,4.4,0h1.022A.586.586,0,0,0,20,9.453V5.938A1.891,1.891,0,0,0,18.185,4.1H13.672a.586.586,0,0,1-.586-.586V0H2.461a.586.586,0,0,0-.586.586V1.875h-.7a.586.586,0,0,0,0,1.172ZM16.951,8.83a1.074,1.074,0,1,1-1.834.76A1.074,1.074,0,0,1,16.951,8.83ZM6.6,8.83a1.074,1.074,0,1,1-1.834.76A1.074,1.074,0,0,1,6.6,8.83Zm0,0" transform="translate(910 551.082)" fill-rule="evenodd" fill="url(#linear-gradient)"/>
+  </g>
+</svg>

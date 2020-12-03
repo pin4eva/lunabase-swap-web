@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="26.274" height="26.274" viewBox="0 0 26.274 26.274">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f79961"/>
+      <stop offset="0.499" stop-color="#f38645"/>
+      <stop offset="1" stop-color="#ee7329"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_28" data-name="Rectangle 28" width="25" height="25" transform="translate(74 1018)" fill="url(#linear-gradient)"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-2" x1="0.5" y1="0.474" x2="0.523" y2="0.475" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f79961"/>
+      <stop offset="1" stop-color="#ee7329"/>
+    </linearGradient>
+  </defs>
+  <g id="Mask_Group_13" data-name="Mask Group 13" transform="translate(1037.698 -127.177) rotate(87)" clip-path="url(#clip-path)">
+    <g id="basketball" transform="translate(74 1018)">
+      <circle id="Ellipse_4" data-name="Ellipse 4" cx="11.355" cy="11.355" r="11.355" transform="translate(1.004 1.07)" fill="url(#linear-gradient-2)"/>
+      <g id="Group_25" data-name="Group 25">
+        <g id="Group_24" data-name="Group 24">
+          <path id="Path_671" data-name="Path 671" d="M.452,12.727l-.358-.613c.346-.2,8.543-4.944,15.454-5.2,7.062-.26,9.337,4.841,9.359,4.892l-.652.28c-.083-.192-2.136-4.7-8.68-4.463C8.839,7.873.535,12.678.452,12.727Z" fill="#fff"/>
+          <path id="Path_672" data-name="Path 672" d="M5.281,22.943l-.551-.449c.048-.058,4.751-5.9,4.751-12.246,0-6.185-4.123-7.482-4.3-7.534l.2-.681c.048.014,4.809,1.478,4.809,8.215C10.192,16.847,5.482,22.7,5.281,22.943Z" fill="#fff"/>
+          <path id="Path_673" data-name="Path 673" d="M12.8,25l-.527-.474A21.083,21.083,0,0,0,16.751,9.42C16.084,2.7,12.963.62,12.93.6l.38-.6c.142.089,3.442,2.253,4.148,9.35A21.818,21.818,0,0,1,12.8,25Z" fill="#fff"/>
+          <path id="Path_674" data-name="Path 674" d="M23.261,16.443C18.616,10.438,21.03,5.191,21.135,4.97l.641.3c-.023.05-2.319,5.087,2.045,10.734Z" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,54 @@
+.heading,
+.sub-heading {
+  font-family: "SF Pro Display";
+  font-size: 25px;
+  color: #222222;
+  font-weight: 500;
+  margin-bottom: 20px;
+}
+
+.sub-heading {
+  font-size: 20px;
+}
+
+.text-light,
+.text-regular,
+.text-medium {
+  font-family: "SF Pro Display";
+  font-size: 16px;
+  color: #333333;
+}
+
+.small-text-light,
+.small-text-regular,
+.small-text-medium {
+  font-family: "SF Pro Display";
+  font-size: 13px;
+  color: #333333;
+}
+
+.xs-text-light,
+.xs-text-regular,
+.xs-text-medium {
+  font-family: "SF Pro Display";
+  font-size: 10px;
+  color: #222222;
+}
+
+.text-light,
+.small-text-light,
+.xs-text-light {
+  font-weight: 200;
+}
+
+.text-regular,
+.small-text-regular,
+.xs-text-regular {
+  font-weight: 400;
+}
+
+.text-medium,
+.small-text-medium,
+.xs-text-medium {
+  font-weight: 500;
+}

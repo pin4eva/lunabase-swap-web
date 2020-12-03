@@ -1,0 +1,98 @@
+export const Products = [
+  {
+    title: 'Apple MacBook Pro 15" Retina 512GB SSD',
+    url: "/how-it-works",
+    price: 500000,
+    thumbnail: require("../assets/product_14"),
+  },
+  {
+    title: 'Apple MacBook Pro 15" Retina 512GB SSD',
+    url: "products/Apple-MacBook-Pro-15-Retina-512GB-SSD",
+    price: 2500000,
+    thumbnail: require("../assets/product_01"),
+  },
+  {
+    title: 'Apple MacBook Pro 15" Retina 512GB SSD',
+    url: "#",
+    price: 6500000,
+    thumbnail: require("../assets/product_02"),
+  },
+  {
+    title: 'Apple MacBook Pro 15" Retina 512GB SSD',
+    url: "#",
+    price: 5500000,
+    thumbnail: require("../assets/product_03"),
+  },
+  {
+    title: 'Apple MacBook Pro 15" Retina 512GB SSD',
+    url: "#",
+    price: 8500000,
+    thumbnail: require("../assets/product_04"),
+  },
+  {
+    title: 'Apple MacBook Pro 15" Retina 512GB SSD',
+    url: "#",
+    price: 10500000,
+    thumbnail: require("../assets/product_05"),
+  },
+  {
+    title: 'Apple MacBook Pro 15" Retina 512GB SSD',
+    url: "#",
+    price: 4500000,
+    thumbnail: require("../assets/product_06"),
+  },
+  {
+    title: 'Apple MacBook Pro 15" Retina 512GB SSD',
+    url: "#",
+    price: 9500000,
+    thumbnail: require("../assets/product_07"),
+  },
+  {
+    title: 'Apple MacBook Pro 15" Retina 512GB SSD',
+    url: "#",
+    price: 53300000,
+    thumbnail: require("../assets/product_08"),
+  },
+  {
+    title: 'Apple MacBook Pro 15" Retina 512GB SSD',
+    url: "#",
+    price: 3500000,
+    thumbnail: require("../assets/product_09"),
+  },
+  {
+    title: 'Apple MacBook Pro 15" Retina 512GB SSD',
+    url: "#",
+    price: 12500000,
+    thumbnail: require("../assets/product_10"),
+  },
+  {
+    title: 'Apple MacBook Pro 15" Retina 512GB SSD',
+    url: "#",
+    price: 58700000,
+    thumbnail: require("../assets/product_11"),
+  },
+  {
+    title: 'Apple MacBook Pro 15" Retina 512GB SSD',
+    url: "#",
+    price: 98500000,
+    thumbnail: require("../assets/product_12"),
+  },
+  {
+    title: 'Apple MacBook Pro 15" Retina 512GB SSD',
+    url: "#",
+    price: 67500000,
+    thumbnail: require("../assets/product_13"),
+  },
+  {
+    title: 'Apple MacBook Pro 15" Retina 512GB SSD',
+    url: "#",
+    price: 37500000,
+    thumbnail: require("../assets/product_15"),
+  },
+  {
+    title: 'Apple MacBook Pro 15" Retina 512GB SSD',
+    url: "#",
+    price: 26500000,
+    thumbnail: require("../assets/product_16"),
+  },
+];

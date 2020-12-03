@@ -1,0 +1,51 @@
+.main-slide,
+.mini-slide {
+  border-radius: 50px;
+  overflow: hidden;
+  cursor: pointer;
+}
+
+.mini-slide {
+  border-radius: 30px;
+  width: 100%;
+  margin-right: 30px;
+}
+
+.mini-banner {
+  height: 300px;
+  width: 45%;
+  background: #f1f1f1;
+  border-radius: 30px;
+  background-image: url("../assets/btn-bg.jpg");
+  background-position: center;
+  background-size: cover;
+
+  // .fancy {
+  //   margin-top: 15px;
+  // }
+
+  div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+  }
+}
+
+.product-slide {
+  border-radius: 30px;
+  overflow: hidden;
+}
+
+.product-slide-nav .splide__slide {
+  border-radius: 10px;
+  overflow: hidden;
+  border: none !important;
+  margin-top: 15px;
+}
+
+.product-slide-nav .splide__slide.is-active {
+  border: 3px solid #000 !important;
+}

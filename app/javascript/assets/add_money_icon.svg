@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="25" height="25" viewBox="0 0 25 25">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_528" data-name="Rectangle 528" width="25" height="25" transform="translate(109 541)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_68" data-name="Mask Group 68" transform="translate(-109 -541)" clip-path="url(#clip-path)">
+    <g id="money-bag" transform="translate(109 541)">
+      <g id="Money_Bag_1_">
+        <path id="Path_981" data-name="Path 981" d="M19.092,3.662c0,2.227-1.729,3.662-4.395,3.662H12.588c-.249-.293-.5-.586-.747-.85l.205-.63c.967-.044,2.651-.4,2.651-2.183a.732.732,0,0,1,1.465,0A3.491,3.491,0,0,1,15.474,5.8c.952-.146,2.153-.615,2.153-2.139a.732.732,0,1,1,1.465,0Z" fill="#f79961"/>
+        <g id="Group_431" data-name="Group 431">
+          <ellipse id="Ellipse_46" data-name="Ellipse 46" cx="1.465" cy="2.93" rx="1.465" ry="2.93" transform="translate(14.746 17.676)" fill="#f79961"/>
+          <path id="Path_982" data-name="Path 982" d="M13.281,20.605c0-2.464,1.287-4.395,2.93-4.395H8.154a.732.732,0,0,0-.732.732v7.324A.732.732,0,0,0,8.154,25h8.057C14.568,25,13.281,23.07,13.281,20.605Zm-2.2.732a.732.732,0,1,1,.732-.732A.732.732,0,0,1,11.084,21.338Z" fill="#f79961"/>
+          <path id="Path_983" data-name="Path 983" d="M24.268,16.211H16.211c1.643,0,2.93,1.93,2.93,4.395S17.854,25,16.211,25h8.057A.732.732,0,0,0,25,24.268V16.943A.732.732,0,0,0,24.268,16.211Zm-2.93,5.127a.732.732,0,1,1,.732-.732A.732.732,0,0,1,21.338,21.338Z" fill="#f79961"/>
+        </g>
+      </g>
+      <g id="Group_432" data-name="Group 432">
+        <path id="Path_984" data-name="Path 984" d="M5.454,5.859h6.313a1.868,1.868,0,0,0,.278-.015l1.143-3.413a.726.726,0,0,0-.688-.967H10.61A1.836,1.836,0,0,1,9.351.952,3.178,3.178,0,0,0,7.065,0H3.711a.732.732,0,0,0-.659,1.055Z" fill="#ee7329"/>
+        <path id="Path_985" data-name="Path 985" d="M5.908,16.895a2.2,2.2,0,0,1,2.2-2.2h8.5a26.034,26.034,0,0,0-4.014-7.373h-7.5C2.3,10.723,0,16.206,0,19.824c0,4.387,1.843,5.109,5.908,5.17Z" fill="#ee7329"/>
+      </g>
+    </g>
+  </g>
+</svg>
